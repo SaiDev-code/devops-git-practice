@@ -8,4 +8,6 @@ Status: In Development
 testing
 Feature: Login Module 1
 Status: In Development 1
+Feature: Payment Module 1
+Status: In Development 1
 
